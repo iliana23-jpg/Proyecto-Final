@@ -14,3 +14,9 @@ Este proyecto es el trabajo final donde pongo en práctica lo que me han enseña
 - Incluir un archivo README.md que describa brevemente el proyecto, sus características y cómo desplegarlo.
 - Publicar la página web en línea utilizando GitHub Pages
 - Compartir liga del proyecto
+
+## Código
+
+Vista previa del código: 
+
+![Vista previa](https://i.postimg.cc/kgFr6MC8/image.png)
